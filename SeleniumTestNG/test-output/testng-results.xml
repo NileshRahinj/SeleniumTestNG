@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15394" started-at="2021-07-18T18:52:17Z" finished-at="2021-07-18T18:52:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15394" started-at="2021-07-18T18:52:17Z" finished-at="2021-07-18T18:52:32Z">
+      <class name="TestOrangeHRM.FunctionalTesting">
+        <test-method status="PASS" signature="ServerUp()[pri:0, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="ServerUp" is-config="true" duration-ms="9" started-at="2021-07-19T00:22:17Z" finished-at="2021-07-19T00:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServerUp -->
+        <test-method status="PASS" signature="LaunchBrowser()[pri:0, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="LaunchBrowser" is-config="true" duration-ms="2603" started-at="2021-07-19T00:22:17Z" finished-at="2021-07-19T00:22:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method status="PASS" signature="UserOnHomePage()[pri:0, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="UserOnHomePage" duration-ms="7141" started-at="2021-07-19T00:22:20Z" finished-at="2021-07-19T00:22:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserOnHomePage -->
+        <test-method status="PASS" signature="LogIn()[pri:1, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="LogIn" duration-ms="4188" started-at="2021-07-19T00:22:27Z" finished-at="2021-07-19T00:22:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="LogOut()[pri:2, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="LogOut" duration-ms="1326" started-at="2021-07-19T00:22:31Z" finished-at="2021-07-19T00:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="CloseBrowser" is-config="true" duration-ms="112" started-at="2021-07-19T00:22:32Z" finished-at="2021-07-19T00:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+        <test-method status="PASS" signature="ServerDown()[pri:0, instance:TestOrangeHRM.FunctionalTesting@57baeedf]" name="ServerDown" is-config="true" duration-ms="1" started-at="2021-07-19T00:22:32Z" finished-at="2021-07-19T00:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ServerDown -->
+      </class> <!-- TestOrangeHRM.FunctionalTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
